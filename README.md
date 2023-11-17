@@ -1,3 +1,5 @@
+# base git Commands
+
 git config --global 
 git init - инициализация репа
 git rm -rf .git - удалить папку с репозиторием
